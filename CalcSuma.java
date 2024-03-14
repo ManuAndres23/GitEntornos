@@ -10,6 +10,8 @@ public class CalcSuma {
 		this.b=b;
 		res=this.a+this.b;
 	}
+	
+	/*prueba rama dos*/
 	public int getA() {
 		return a;
 	}
