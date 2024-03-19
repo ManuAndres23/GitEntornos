@@ -25,6 +25,10 @@ public class CalcSuma {
 	}
 
 	public void setB(int b) {
-		this.b = b;
+		if (b>10){
+			this.b=b;
+		}else{
+			this.b=-1;
+		}
 	}
 }
