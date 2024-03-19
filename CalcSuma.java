@@ -23,12 +23,3 @@ public class CalcSuma {
 	public int getB() {
 		return b;
 	}
-
-	public void setB(int b) {
-		if (b>10){
-			this.b=b;
-		}else{
-			this.b=-1;
-		}
-	}
-}
