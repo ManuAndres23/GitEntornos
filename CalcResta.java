@@ -25,4 +25,8 @@ public class CalcResta {
 	public void setB(int b) {
 		this.b = b;
 	}
+	@override
+	public String toString() {
+		return "CalcResta";
+	}
 }
