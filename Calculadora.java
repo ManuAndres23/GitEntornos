@@ -25,4 +25,7 @@ public class Calculadora {
 	public void setB(int b) {
 		this.b = b;
 	}
+	public void bienvenida(){
+		System.out.println("Bienvenido a nuestra calculadora")
+	}
 }
