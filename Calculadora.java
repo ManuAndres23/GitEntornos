@@ -26,6 +26,9 @@ public class Calculadora {
 		this.b = b;
 	}
 	public void bienvenida(){
-		System.out.println("Bienvenido a nuestra calculadora")
+		System.out.println("Bienvenido a nuestra calculadora");
+	}
+	public void adios(){
+		System.out.println("Adios");
 	}
 }
